@@ -35,4 +35,4 @@ Each script has its own specific functionality. Check the documentation within e
 
 ## Author
 
-[Your Name] 
+Carlos García Gracia
